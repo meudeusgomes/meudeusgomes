@@ -4,8 +4,8 @@
 - 😄 Pronouns: he/him
 <div>
   <a href="https://github.com/meudeusgomes"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=meudeusgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meudeusgomes&layout=compact&langs_count=16&theme=dark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=meudeusgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meudeusgomes&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
 ##
@@ -21,14 +21,10 @@
 ##
 
 <div> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/meudeusgomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/meudeusgomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
 
-![Snake animation](https://github.com/meudeusgomes/meudeusgomes/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meudeusgomes&bg_color=1a1b27&color=5172ae&line=2b3753&point=3bc9b9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
